@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int arr[];
+int arr[100];
 int repeat();
 int main()
 {
